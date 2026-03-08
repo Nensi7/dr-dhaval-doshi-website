@@ -221,7 +221,7 @@ export default function Contact() {
                 {/* Preferred Date */}
                 <div>
                   <label htmlFor="preferredDate" className="block text-base font-bold text-foreground mb-3">
-                    Preferred Date <span className="text-primary">(DD/MM/YYYY)</span>
+                    Preferred Date
                   </label>
                   <input
                     type="date"
