@@ -60,7 +60,7 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Phone',
-      details: ['+91 9909910435', 'Appointment: 079-48900771', 'Mobile: 9724394226'],
+      details: ['Appointment: 079-48900771', 'Mobile: 9724394226'],
       color: 'primary',
     },
     {
