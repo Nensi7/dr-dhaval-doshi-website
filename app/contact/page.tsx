@@ -332,7 +332,7 @@ export default function Contact() {
                 href="tel:+919909910435"
                 className="text-primary font-semibold hover:text-secondary transition-colors"
               >
-                +91 9909910435
+                +91 9724394226
               </a>
             </div>
             <div className="p-8 bg-gradient-to-br from-accent/10 to-secondary/10 rounded-lg text-center border border-accent/20">
