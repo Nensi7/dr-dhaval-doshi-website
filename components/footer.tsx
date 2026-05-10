@@ -78,14 +78,17 @@ export default function Footer() {
           <p className="text-sm text-muted-foreground text-center md:text-left">
             © 2026 Holistic Heart Care. All rights reserved. @2026
           </p>
-          {/* <div className="flex gap-6 text-sm text-muted-foreground">
-            <Link href="#" className="hover:text-primary transition-colors">
-              Privacy Policy
-            </Link>
-            <Link href="#" className="hover:text-primary transition-colors">
-              Terms of Service
-            </Link>
-          </div> */}
+          <p className="text-sm text-muted-foreground text-center md:text-right">
+            Developed and Powered by{' '}
+            <a
+              href="https://thegrowingmedia.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:text-accent transition-colors"
+            >
+              The Growing Media Solutions
+            </a>
+          </p>
         </div>
       </div>
     </footer>
